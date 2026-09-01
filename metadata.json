@@ -1,0 +1,6 @@
+{
+  "name": "Élane Beauty",
+  "description": "A premium editorial e-commerce platform for curated skincare rituals, botanical hair oils, and nourishing body treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
